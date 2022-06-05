@@ -1,0 +1,3 @@
+main: dev.chinyun.spigot.{{plugin_name.lowerCase()}}.App
+name: {{plugin_name.pascalCase()}}
+version: 0.1

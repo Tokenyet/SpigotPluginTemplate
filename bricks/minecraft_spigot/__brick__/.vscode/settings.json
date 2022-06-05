@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.env.windows": {
+    "Path": "${env:PATH};D:\\Minecraft Server\\spigot_dev\\dependencies\\apache-maven-3.6.0\\bin;D:\\Minecraft Server\\spigot_dev\\dependencies\\openjdk-18.0.1.1_windows-x64_bin\\jdk-18.0.1.1\\bin"
+  },
+  "files.autoGuessEncoding": true,
+  "files.encoding": "utf8",
+  "java.home": "D:\\Minecraft Server\\spigot_dev\\dependencies\\openjdk-18.0.1.1_windows-x64_bin\\jdk-18.0.1.1",
+  "java.jdt.ls.vmargs": "-Dfile.encoding=UTF-8",
+  "javac-linter.javac": "javac -Dfile.encoding=UTF-8"
+}

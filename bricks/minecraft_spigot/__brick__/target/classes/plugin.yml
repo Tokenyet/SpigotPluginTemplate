@@ -1,0 +1,3 @@
+main: dev.chinyun.spigot.{{plugin_name_small}}.App
+name: {{plugin_name_pascal}}
+version: 0.1
