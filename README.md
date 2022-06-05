@@ -13,5 +13,5 @@ Then, You should set env properyly at .vscode/settings.json, such as maven, java
 The final steps to generate plugin.jar.
 
 ```
-maven install
+mvn install
 ```
